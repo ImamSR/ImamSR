@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Imam Sayyid Rahman, Fresh Informatics Engineering graduate with a sharp focus on Blockchain, Backend Development, and Cybersecurity. I love turning academic research into real world impact designing trust-minimized decentralized systems, building scalable backend APIs, and defending digital infrastructure against emerging threats.</h2>
+<h2 align="left">Hi 👋! My name is Imam Sayyid Rahman</h2>
 
 ###
 
@@ -33,10 +33,6 @@
 
 <a href="https://discord.com/users/edwardjack2" target="_blank" rel="noopener">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-</a>
-
-<a href="mailto:imamsayyid332@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email me" />
 </a>
 
 <a href="https://www.linkedin.com/in/imamsayyidrahman/" target="_blank" rel="noopener">
