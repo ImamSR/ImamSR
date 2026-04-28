@@ -66,13 +66,13 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=imamsayyidrahman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=ImamSR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamsayyidrahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamSR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" height="160" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imamsayyidrahman&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImamSR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true" width="100%"/>
 
 <br/>
 
