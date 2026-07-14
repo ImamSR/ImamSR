@@ -61,17 +61,6 @@
 
 <br/>
 
----
-
-### 📊 GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImamSR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true" width="100%"/>
-
-<br/>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=imamsayyidrahman&style=flat-square&color=667eea&label=Profile+Views" />
 
